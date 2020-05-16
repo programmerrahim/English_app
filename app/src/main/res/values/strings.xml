@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Secret Method to Learn English ( ইংরেজি শেখার গোপন পদ্ধতি )</string>
+
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="name">Name</string>
+    <string name="more">More</string>
+    <string name="des">Descriptions</string>
+    <string name="close">Close</string>
+
+
+    <string name="nav_sentence">Sentence(বাক্য)</string>
+    <string name="nav_tense">Tense(কাল)</string>
+    <string name="nav_articles">Articles</string>
+    <string name="nav_preposition">Preposition</string>
+    <string name="nav_voice_change">Voice Change</string>
+    <string name="nav_admin">Admin Login</string>
+
+
+
+    <string name="facebook_application_id">320260812298566</string>
+
+    <string name="fb_instanstial_ads">320260812298566_320292752295372</string>
+</resources>

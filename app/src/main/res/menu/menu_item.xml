@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:id="@+id/nav_sentence_Id"
+        android:title="@string/nav_sentence"
+        android:icon="@drawable/ic_book"
+        />
+    <item
+        android:id="@+id/nav_articles_Id"
+        android:title="@string/nav_articles"
+        android:icon="@drawable/ic_book"
+        />
+
+    <item
+        android:id="@+id/nav_tense_Id"
+        android:title="@string/nav_tense"
+        android:icon="@drawable/ic_book"
+        />
+
+
+    <item
+        android:id="@+id/nav_preposition_Id"
+        android:title="@string/nav_preposition"
+        android:icon="@drawable/ic_book"
+        />
+    <item
+        android:id="@+id/nav_voice_change_Id"
+        android:title="@string/nav_voice_change"
+        android:icon="@drawable/ic_book"
+        />
+
+    <item
+        android:id="@+id/nav_logout_Id"
+        android:title="@string/nav_admin"
+        android:icon="@drawable/ic_log_out"
+        />
+
+</menu>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "221122205528",
+    "firebase_url": "https://photocontest-95c57.firebaseio.com",
+    "project_id": "photocontest-95c57",
+    "storage_bucket": "photocontest-95c57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221122205528:android:bcf6a39a4cd66cbd93372d",
+        "android_client_info": {
+          "package_name": "com.greenlove.photocontest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221122205528-gufmmfn6gqak50e6g6iln86eju0kllct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.greenlove.photocontest",
+            "certificate_hash": "e17f2a7f7dd7699f8a0371ca136709015cdd8215"
+          }
+        },
+        {
+          "client_id": "221122205528-rai6hdll89c9rs95k6ptrbg0q0e0krso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFJm5r02tuV2hMn70c11_BhO33vkQInjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221122205528-rai6hdll89c9rs95k6ptrbg0q0e0krso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
